@@ -1,49 +1,84 @@
-2024-01-05 18:23:26,511 - dish - INFO - Created dish: Margherita, price: 5.0
-2024-01-05 18:23:26,512 - dish - INFO - Created dish: Marinara, price: 4.5
-2024-01-05 18:23:26,512 - dish - INFO - Created dish: Salami, price: 6.0
-2024-01-05 18:23:26,512 - menu_category - INFO - Created menu category: Pizzas
-2024-01-05 18:23:26,512 - dish - INFO - Created dish: Water 0.5, price: 1.5
-2024-01-05 18:23:26,512 - dish - INFO - Created dish: Cola 0.5, price: 2.0
-2024-01-05 18:23:26,512 - dish - INFO - Created dish: Tea, price: 1.0
-2024-01-05 18:23:26,512 - menu_category - INFO - Created menu category: Drinks
-2024-01-05 18:23:26,512 - __main__ - INFO - Created restaurant menu
-2024-01-05 18:23:38,276 - dish - INFO - Created dish: Margherita, price: 5.0
-2024-01-05 18:23:38,276 - dish - INFO - Created dish: Marinara, price: 4.5
-2024-01-05 18:23:38,277 - dish - INFO - Created dish: Salami, price: 6.0
-2024-01-05 18:23:38,277 - menu_category - INFO - Created menu category: Pizzas
-2024-01-05 18:23:38,277 - dish - INFO - Created dish: Water 0.5, price: 1.5
-2024-01-05 18:23:38,277 - dish - INFO - Created dish: Cola 0.5, price: 2.0
-2024-01-05 18:23:38,277 - dish - INFO - Created dish: Tea, price: 1.0
-2024-01-05 18:23:38,277 - menu_category - INFO - Created menu category: Drinks
-2024-01-05 18:23:38,277 - __main__ - INFO - Created restaurant menu
-2024-01-05 18:23:43,720 - dish - INFO - Created dish: Margherita, price: 5.0
-2024-01-05 18:23:43,720 - dish - INFO - Created dish: Marinara, price: 4.5
-2024-01-05 18:23:43,720 - dish - INFO - Created dish: Salami, price: 6.0
-2024-01-05 18:23:43,720 - menu_category - INFO - Created menu category: Pizzas
-2024-01-05 18:23:43,720 - dish - INFO - Created dish: Water 0.5, price: 1.5
-2024-01-05 18:23:43,720 - dish - INFO - Created dish: Cola 0.5, price: 2.0
-2024-01-05 18:23:43,720 - dish - INFO - Created dish: Tea, price: 1.0
-2024-01-05 18:23:43,720 - menu_category - INFO - Created menu category: Drinks
-2024-01-05 18:23:43,720 - __main__ - INFO - Created restaurant menu
-2024-01-05 18:30:01,889 - dish - WARNING - Too many dishes: Margherita
-2024-01-05 18:30:33,104 - dish - INFO - Too many dishes: Margherita
-2024-01-05 18:31:08,137 - dish - INFO - Too many dishes: Margherita
-2024-01-05 19:51:13,766 - menu_category - INFO - Too many dishes: Margherita
-2024-01-05 19:51:52,258 - menu_category - INFO - Too many dishes: Margherita
-2024-01-05 19:51:52,258 - dish - INFO - Too many dishes: Margherita
-2024-01-05 19:53:44,179 - dish - INFO - Too many dishes: Margherita
-2024-01-05 19:54:30,735 - dish - INFO - Too many dishes: Margherita
-2024-01-05 19:54:30,735 - dish - INFO - Too many dishes: Marinara
-2024-01-05 19:54:30,735 - dish - INFO - Too many dishes: Salami
-2024-01-05 19:54:30,735 - dish - INFO - Too many dishes: Pepperoni
-2024-01-05 19:54:30,735 - dish - INFO - Too many dishes: Water 0.5
-2024-01-05 19:54:30,735 - dish - INFO - Too many dishes: Cola 0.5
-2024-01-05 19:55:20,931 - dish - WARNING - Too many dishes: Margherita
-2024-01-05 19:55:20,931 - dish - WARNING - Too many dishes: Marinara
-2024-01-05 19:55:20,931 - dish - WARNING - Too many dishes: Salami
-2024-01-05 19:55:20,931 - dish - WARNING - Too many dishes: Pepperoni
-2024-01-05 19:55:20,931 - dish - WARNING - Too many dishes: Water 0.5
-2024-01-05 19:55:20,931 - dish - WARNING - Too many dishes: Cola 0.5
-2024-01-05 19:56:33,646 - dish - WARNING - Too many dishes: Margherita
-2024-01-05 19:57:37,296 - dish - WARNING - Too many dishes: Margherita
-2024-01-05 19:59:12,922 - dish - WARNING - Too many dishes: Margherita
+2024-01-09 03:27:28,506 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:27:28,507 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:27:28,507 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:27:28,507 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:27:28,507 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:27:28,507 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:27:28,507 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:27:28,509 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:28:33,469 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:28:33,470 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:28:33,470 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:28:33,470 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:28:33,470 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:28:33,470 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:28:33,470 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:28:33,470 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:29:19,405 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:29:19,406 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:29:19,406 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:29:19,406 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:29:19,406 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:29:19,406 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:29:19,406 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:29:19,406 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:31:41,879 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:31:41,879 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:33:32,321 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:33:32,321 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:33:32,321 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:33:32,321 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:33:32,321 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:33:32,322 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:33:32,322 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:33:32,322 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:35:04,971 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:35:04,971 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:35:04,971 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:35:04,971 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:35:04,972 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:35:04,972 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:35:04,972 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:35:04,972 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:35:04,972 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:35:17,750 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:35:17,750 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:35:17,750 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:35:17,752 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:35:17,752 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:35:17,752 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:35:17,752 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:35:17,752 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:36:43,544 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:36:43,545 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:36:43,545 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:37:57,683 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 03:39:25,804 - __main__ - INFO - Created dish: Margherita, price: 5.0
+2024-01-09 03:39:25,805 - __main__ - INFO - Created dish: Marinara, price: 4.5
+2024-01-09 03:39:25,805 - __main__ - INFO - Created dish: Salami, price: 6.0
+2024-01-09 03:39:25,805 - __main__ - INFO - Created dish: Pepperoni, price: 7.0
+2024-01-09 03:39:25,805 - __main__ - INFO - Created dish: Water 0.5, price: 1.5
+2024-01-09 03:39:25,805 - __main__ - INFO - Created dish: Cola 0.5, price: 2.0
+2024-01-09 03:39:25,805 - __main__ - INFO - Created dish: Tea, price: 1.0
+2024-01-09 04:13:48,925 - __main__ - WARNING - Unknown type: <class 'list'>
+2024-01-09 04:22:00,678 - __main__ - WARNING - Too many dishes: Pizzas
+2024-01-09 04:22:44,278 - __main__ - WARNING - Too many dishes: Pizzas
+2024-01-09 04:24:06,776 - __main__ - WARNING - Too many dishes: Pizzas
